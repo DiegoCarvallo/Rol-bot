@@ -73,6 +73,7 @@ public class StatsJugador {
 	 */
 	public int modFuerza() {
 		int modFuerza = 0;
+		
 		if(fuerza>9||fuerza>10) {
 			int valor = fuerza-10;
 			if (valor%2 != 0) valor++;//si es impar, nos aseguramos que tome le valor mayor.
@@ -83,5 +84,23 @@ public class StatsJugador {
 		}
 		
 		return modFuerza;
+	}
+	/***
+	 * Funcion que retorna el modificador de destreza
+	 * @return modDestreza: modificador de destreza
+	 */
+	public int modDestreza() {
+		int modDestreza = 0;
+		
+		if(destreza>9||destreza>10) {
+			int valor = destreza-10;
+			if(valor%2 !=0) valor++;
+			modDestreza = valor/2;
+		}
+		if(destreza<9||destreza<10) {
+			modDestreza = destreza/2;
+		}
+				
+		return modDestreza;		
 	}
 }
