@@ -1,0 +1,36 @@
+abrir cerraduras,no,des,0
+artesania,si,int,0
+averiguar intenciones,si,sab,0
+avistar,si,sab,0
+buscar,si,int,0
+concentracion,si,int,0
+conocimiento de conjuros,no,int,0
+decifrar escritura,no,int,0
+diplomacia,si,car,0
+disfrazarce,si,car,0
+engañar,si,car,0
+equilibrio,si,des,0
+escapismo,si,des,0
+esconderse,si,des,0
+escuchar,si,sab,0
+falsificar,si,int,0
+interpretar,si,car,0
+intimidar,si,car,0
+inutilizar mecanismo,no,int,0
+juego de manos,no,des,0
+montar,si,des,0
+moverse sigilosamente,si,des,0
+nadar,si,fue,0
+oficio,no,sab,0
+piruetas,no,des,0
+reunir informacion,si,car,0
+saber,no,int,0
+saltar,si,fue,0
+sanar,si,sab,0
+supervivencia,si,sab,0
+tasacion,si,int,0
+trato con animales,si,car,0
+trepar,si,fue,0
+usar objeto magico,no,car,0
+uso de cuardas,si,des,0
+
