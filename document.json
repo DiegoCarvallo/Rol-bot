@@ -1,0 +1,133 @@
+[
+  {
+    "clase": "barbaro",
+    "dados de golpe": "1d12",
+    "ataque base": "bueno",
+    "puntos de habilidad/nivel": 4,
+    "habilidades claseas": [
+      "artesania",
+      "escuchar",
+      "intimidar",
+      "montar",
+      "nadar",
+      "saltar",
+      "supervivencia",
+      "trato con animales",
+      "trepar"
+    ],
+    "rasgos de clase": [
+      "analfabetismo",
+      "FuriaBarbara",
+      "EsquivaAsombrosa",
+      "reduccionDelDaño"
+    ]
+  },
+  {
+    "clase": "bardo",
+    "dados de golpe": "1d6",
+    "ataque base": "regular",
+    "puntos de habilidad/nivel": 4,
+    "habilidades claseas": [
+      "artesania",
+      "averiguar intenciones",
+      "concentracion",
+      "conocimiento de conjuros",
+      "descifrar escritura",
+      "diplomacia",
+      "disfrazarse",
+      "engañar",
+      "equilibrio",
+      "escapismo",
+      "esconderse",
+      "escuchar",
+      "hablar un idioma",
+      "interpretar",
+      "juego de manos",
+      "moverse sigilosamente",
+      "nadar",
+      "oficio",
+      "piruetas",
+      "reunir informacion",
+      "saber_arcano",
+      "saber_arquitectura e ingenieria ",
+      "saber_geografia",
+      "saber_historia",
+      "saber_local",
+      "saber_planos",
+      "saber_naturaleza",
+      "saber_nobleza y realeza",
+      "saber_religion",
+      "saltar",
+      "tasacion",
+      "trepar",
+      "usar objeto magico"
+    ],
+    "rasgos de clase": [
+      "conocimientoDeBardo",
+      "musicaDeBardo"
+    ]
+  },
+  {
+    "clase": "clerigo",
+    "dados de golpe": "1d8",
+    "ataque base": "regular",
+    "puntos de habilidad/nivel": 2,
+    "habilidades claseas": [
+      "artesania",
+      "concentracion",
+      "conocimiento de conjuros",
+      "diplomacia",
+      "oficio",
+      "saber_arcano",
+      "saber_religion",
+      "sanar"
+    ],
+    "rasgos de clase": [
+      "aura",
+      "expulsarMuertosVivientes",
+      "lanzamientoEspontaneo"
+    ]
+  },
+  {
+    "clase": "druida",
+    "dados de golpe": "1d8",
+    "ataque base": "regular",
+    "puntos de habilidad/nivel": 4,
+    "habilidades claseas": [
+      "artesania",
+      "avistar",
+      "concentracion",
+      "conocimiento de conjuros",
+      "diplomacia",
+      "escuchar",
+      "montar",
+      "nadar",
+      "oficio",
+      "saber_naturaleza",
+      "sanar",
+      "supervivencia",
+      "trato con animales"
+    ],
+    "rasgos de clase": [
+      "compañeroAnimal",
+      "empatiaSalvaje",
+      "lanzamientoEspontaneo",
+      "sentidoDeLaNaturaleza",
+      "zancadaForestal",
+      "pisadaSinRastro",
+      "resistirAtraccionDeLaNaturaleza",
+      "formaSalvaje",
+      "inmunidadAlVeneno",
+      "lasMilCaras",
+      "CuerpoEterno"
+    ]
+  },
+  {
+    "clase": "explorador",
+    "dados de golpe": "1d8",
+    "ataque base": "bueno",
+    "puntos de habilidad": 6,
+    "habilidades claseas": [],
+    "rasgos de clase": []
+  }
+]
